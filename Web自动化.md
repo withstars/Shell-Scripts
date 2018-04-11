@@ -93,7 +93,4 @@ $ curl -I http://slynux.org
 ```
 # 使用curl发送POST请求并读取网站的响应（HTML格式）
 $ curl URL -d "postvar=postdata2&postvar2=postdata2" 
-
-
-
 ```
